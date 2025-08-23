@@ -14,14 +14,14 @@ This project is a simple calculator application built with [React](https://react
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (version 14 or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
 
 ### Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/calculator.git
+    git clone https://github.com/annul27/JS-Projects/calculator
     cd calculator
     ```
 

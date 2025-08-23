@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@media screen and (max-width: 900px) {
+  .scientific {
+    width: 448px;
+    padding: 0;
+  }
+  .output, .options{
+    padding: 0 20px;
+  }
+}

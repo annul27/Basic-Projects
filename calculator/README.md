@@ -21,7 +21,7 @@ This project is a simple calculator application built with [React](https://react
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/annul27/JS-Projects/calculator
+    git clone https://github.com/annul27/Basic-Projects/calculator
     cd calculator
     ```
 
